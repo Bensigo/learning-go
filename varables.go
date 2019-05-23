@@ -15,4 +15,7 @@ func main() {
 	var job string
 	job = "software Engineer"
 	fmt.Println(job)
+	// creating a muti varable
+	num1, num2 := 2, 5
+	fmt.Println(num1, num2)
 }
