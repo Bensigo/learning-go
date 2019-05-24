@@ -24,6 +24,7 @@ func main() {
 		_______________________________
 		| int    		 | platform 			|
 		|						 | dependent 			|
+		_______________________________
 	**/
 
 	// numeric data type
